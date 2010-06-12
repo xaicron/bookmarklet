@@ -1,3 +1,4 @@
+javascript:
 (function(u,lr) {
     lr = confirm('Left?') 'left' : 'right';
     u = location.href.replace(new RegExp('http://twitter.com/([^/]+)/.*'), '$1');
